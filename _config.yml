@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Kunal Gupta
 tagline:          'Developer'
 description:      'See tagline here'
-url:              https://fongandrew.github.io/hydeout
+url:              https://kunall17.github.io
 baseurl:          ''# the optional subpath of your site, e.g. "/blog"
 
 author:
@@ -31,7 +31,7 @@ permalink:        /:year/:month/:day/:title.html
 
 defaults:
   - scope:
-      path: "_posts"
+      path: "_about"
       type: "posts"
     values:
       excerpt_separator:  <!--more-->
@@ -40,7 +40,10 @@ defaults:
 # Custom vars
 
 github:
-  repo:           https://github.com/fongandrew/hydeout
+  repo: https://github.com/kunall17/kunall17.github.io
+
+facebook:
+  site: https://www.facebook.com/kunall17
 
 disqus:
   shortname:      hydeout
