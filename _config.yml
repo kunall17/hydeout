@@ -5,15 +5,9 @@ highlighter:      rouge
 # Setup
 title:            Kunal Gupta
 tagline:          'Developer'
-description:      'See tagline here'
+description:      'Developer'
 url:              https://kunall17.github.io
 baseurl:          ''# the optional subpath of your site, e.g. "/blog"
-
-author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
-
-paginate:         5
 
 gems:
   - jekyll-feed
@@ -41,14 +35,6 @@ defaults:
 
 github:
   repo: https://github.com/kunall17/kunall17.github.io
-
-facebook:
-  site: https://www.facebook.com/kunall17
-
-disqus:
-  shortname:      hydeout
-
-google_analytics: UA-100461102-1
 
 version:            3.4.1
 sidebar_home_link:  true
