@@ -9,11 +9,11 @@ sidebar_link: true
 
 ### Introduction
 
-I worked on the react native framework, to enhance the cross platform group chat application for the orgranization **Zulip**.
+I worked on the react native framework, to enhance the cross platform group chat application for the organization **Zulip**.
 
 I have been contributing to Zulip since my [last GSOC](./gsoc16) and it has been a great experience so far, thanks to the Zulip Organization for selecting me again.
 
-In this course of 3 months I have done a lot of changes, implemented new features, fixed many crutial bugs, worked on not only RN but also on several other things.
+In this course of 3 months I have done a lot of changes, implemented new features, fixed many crucial bugs, worked on not only RN but also on several other things.
 
 ### Some quick links
 
@@ -48,11 +48,11 @@ Used the wix/react-native-notifications for the ios & android notifications
 
 ###### Android
 
-Inital implementation was 
+Initial implementation was
 
 ![](https://user-images.githubusercontent.com/12700799/27065186-66ef3f04-5019-11e7-9e01-53487d28a0bf.png)
 
-Then 
+Then
 
 ![](https://user-images.githubusercontent.com/12700799/27505924-160f7982-58ca-11e7-84bf-df54271ebfe0.png)
 
@@ -66,7 +66,7 @@ Then
 ###### iOS
 
 [Implementation of ios push notifications](https://github.com/zulip/zulip-mobile/pull/746)  
-[Added log statment and enabled background modes for ios notifications](https://github.com/zulip/zulip-mobile/pull/1054)  
+[Added log statement and enabled background modes for ios notifications](https://github.com/zulip/zulip-mobile/pull/1054)  
 
 
 ##### End to end integration test's using appium & detox
@@ -88,8 +88,8 @@ Added a topic field to the compose box, by this now its possible to write a new 
 
 [New compose box design](https://github.com/zulip/zulip-mobile/pull/561)  
 
-Similary, implemented this for the private narrow as well
-Unfortunetly this PR didn't got through as we decided it's not the best UX to send messages to other people without narrowing to their conversation.
+Similarly, implemented this for the private narrow as well
+Unfortunately this PR didn't got through as we decided it's not the best UX to send messages to other people without narrowing to their conversation.
 
 [New compose box design for private messages](https://github.com/zulip/zulip-mobile/pull/678)  
 
@@ -111,7 +111,7 @@ This added an imperative feature of editing a sent message, and was long due for
 ##### Implemented prettier (code formatting)
 
 One of most important part of my contribution, was this.
-Prettier added a code styling guide and increased the code readibility of the project.
+Prettier added a code styling guide and increased the code readability of the project.
 
 
 [Renable prettier and fix all issues related to it](https://github.com/zulip/zulip-mobile/pull/859)  was a massive PR to fix all the non-formatted code, and now the code styling of the project is much better
@@ -121,7 +121,7 @@ Prettier added a code styling guide and increased the code readibility of the pr
 
 ##### Hooked up detox E2E & the prettier formatting check
 
-This took a lot of time to use the UI testing checking automically in the travis CI
+This took a lot of time to use the UI testing checking automatically in the travis CI
 Now the CI does a release build from scratch and use the generated file to run a end to end test, runs without any flakiness
 
 Currently there aren't many test running as we need a dev server for the main screen testing
@@ -148,7 +148,7 @@ This converts the markdown to the html which now helps locally echoing the sent 
 
 ##### Use parser to locally echo the message sent
 
-Uses parser to convert 
+Uses parser to convert
 
 ##### Implemented the outbox functionallity
 
@@ -164,7 +164,7 @@ Uses parser to convert
 
 ##### Full screen markdown editor
 
-This is a full screen markdown editor which would be really helpful for writing long big formatted message 
+This is a full screen markdown editor which would be really helpful for writing long big formatted message
 
 **Glimpse of the editor**
 

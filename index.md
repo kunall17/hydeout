@@ -15,4 +15,4 @@ I have been keen in computer's since childhood and have been tinkering in it, I 
 * C++
 * Matlab
 
-I study in Manipal Institue of Technology, Karnataka (India) pursuining Information technology.
+I study in Manipal Institute of Technology, Karnataka (India) pursuing Information technology.
