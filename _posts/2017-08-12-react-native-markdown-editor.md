@@ -10,8 +10,10 @@ excerpt_separator:  <!--more-->
 [![Build Status](https://travis-ci.org/kunall17/react-native-markdown-editor.svg?branch=master)](https://travis-ci.org/kunall17/react-native-markdown-editor)
 
 This is a library for rendering a markdown editor for the markdown with helper buttons to easily write markdown. With live preview markdown as well
-<img src="https://raw.githubusercontent.com/kunall17/react-native-markdown-editor/static/Screenshot.png" width="40%" />
+
 <!--more-->
+<img src="https://raw.githubusercontent.com/kunall17/react-native-markdown-editor/static/Screenshot.png" width="40%" />
+
 (thanks to https://github.com/Benjamin-Dobell/react-native-markdown-view)
 
 ## Index

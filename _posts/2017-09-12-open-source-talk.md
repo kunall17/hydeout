@@ -1,42 +1,59 @@
 ---
 layout: post
-title: Open source talk
+title: Talk on world of open source
 categories: blog
 comments: true
 excerpt_separator:  <!--more-->
 ---
+Let's go on a deep dive to the world of open source, and get to know how it can make our daily life better
 
-**Summary:**
+<!--more-->
 
-- Date decided: 13th - 17th Sep
-- Topics:
-  - Open source organizations
-  - GSOC
-  - Outreachy
-  - GIT basics
+To start off let's see what can we get out of it?
 
-  <!--more-->
+----------
+
+**Perks of contributing to an open source -** If you’re hardworking & have a little bit of luck then you can have a trip to
+
+----------
+
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_E0867B5987A4A96EAC4DB170F5020C6446C71CF3AED59EA59D9587F92106797D_1505361344482_welcome-to-las-vegas-sign.jpg)
 
 
-**Talk title suggestions:**
+On a serious note you’ll learn
 
-- Finding & contributing to an open source org and get selected for an internship/program
 
-**Open source key points**
+- How using open source packages will make your life easier
+- Learn how to manage a team project - You will start using git even for small projects
+- You will start using open source applications instead of freeware/trials/paid software
+- Why do people often say just pick your code from Github and make the prototype ASAP
+- Proper code formatting
+- Working with the CI
+- The most efficient ways to do things
+- Learning the art of how to not do things
+  - How to not converse with collaborators, members of organization  
+  - How not to do git push —force
+  - How not to code
+- After sometime you’ll start using GIT even if you’re doing a project alone
 
+
+----------
+
+**Open source**
 
 - How to start contributing/gelling up in the org
-  - First impression is the last one
+  - First impression is very important
+  - Read the docs & code guidelines
   - Be Professional
     - Dont use spellings like dis while cmmenting,
     - Don't be too cheesy - Asking too many obvious questions,
-    - Focus on the work,
     - Be good at GIT - 'As this is the first thing a person will notice on opening your PR',
     - Have proper commit history,
-    - Follow the code style of your project
 - Start with an issue
   - If there is an UI/UX in the project work on the it at start to get the momentum
   - Don't jump into the core part of the app if not confident,
+
+----------
 
 **GSOC key points/FAQ's**
 
@@ -48,19 +65,34 @@ excerpt_separator:  <!--more-->
   - The framework/language preferred
   - Number of times org selected
   - Number of slots given in an average
+  - https://summerofcode.withgoogle.com/archive/search/?q=android
 -    How to write a good proposal -
   - Be detailed as possible
   - Screenshots/mockups catches attention
-  - Don’t be afraid to add in new features (If you're not sure if
+  - Don’t be afraid to add in new features which are not in the ideas list
+  - Format I like to follow (in order) -
+    - Introduction about project
+    - List of features/fixes you’re definitely going to do
+    - Details of the above listed features (with images of mockups/results)
+    - Some new exciting features which you might do (if time permits)
+    - Roadmap (timeline)
+    - About yourself - Introduce yourself, work experience, contact information
+    - Some FAQ’s -
+      - How many hours per week you can contribute (approx)
+      - Some contributions which you have already made to the organization
+      - Any other information you want to give
+
+
+----------
 
 **Pros & cons for GSOC/outreachy**
 
 
 - Your skill/experience in the framework increases exponentially as you'll be working from home only, hence no time wasting for going to places etc etc
 - Best utilization of your time
-- Stipend if awesome
+- Stipend is awesome
 - You'll become expert in git
-- Code review from experienced people makes you more efficient
+- Code review from experienced people makes you write more efficient code
 
 **Cons**
 
@@ -69,37 +101,11 @@ excerpt_separator:  <!--more-->
 - Sometime get's boring
 
 
+
+----------
+
 **Differences between GSOC & Outreachy**
 
 - Outreachy only for women
 - Stipend differences
 - Outreachy has two rounds (May to August, and December to March)
-
-**GIT Talk**
-
-- Talk basics about git
-- Why git?
-- Basics of its DS
-- [Difference between branches and commits](https://image.slidesharecdn.com/gitseries-150826152153-lva1-app6891/95/git-series-episode-1-distributed-vcs-and-good-commits-7-638.jpg?cb=1443100412)
-- Staging area [https://git-scm.com/images/about/index1@2x.png]
-- Commands: commit and reset
-
-
-**Miscellaneous stuff to talk about**
-
-
-- Even if someone is not selected in either program, they’ll still learn a lot about open source
-- **Outreachy Dec round is around the corner, this is the best/final time to get selected**
-- [Not sure if I should state this?] People are welcome to contribute to Zulip as we are again participating in Outreachy 2017
-
-
-[Need suggestions here]
-
-Flow of the talk.
-
-
-- Categorize talk into 3 topics -
-  - Open source
-  - GSOC
-  - Outreachy
-- Combine all these 3 into one
